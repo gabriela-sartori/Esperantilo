@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\bin\Release\Esperantilo.exe
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\bin\Release\Esperantilo.pdb
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Release\WindowsFormsApplication1.frmMain.resources
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Release\Esperantilo.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Release\Esperantilo.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Release\Esperantilo.exe
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Release\Esperantilo.pdb

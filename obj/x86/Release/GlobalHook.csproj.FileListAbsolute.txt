@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\bin\Release\GlobalHook.exe
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\bin\Release\GlobalHook.pdb
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\obj\x86\Release\WindowsFormsApplication1.frmMain.resources
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\obj\x86\Release\GlobalHook.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\obj\x86\Release\GlobalHook.exe
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\obj\x86\Release\GlobalHook.pdb

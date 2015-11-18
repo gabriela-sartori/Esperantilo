@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\bin\Debug\GlobalHook.exe
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\bin\Debug\GlobalHook.pdb
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\obj\x86\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\obj\x86\Debug\Esperantilo.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\obj\x86\Debug\GlobalHook.exe
+C:\Users\Gabriel\Desktop\coding\C#\GlobalHook\obj\x86\Debug\GlobalHook.pdb
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Debug\Esperantilo.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\bin\Debug\Esperantilo.exe
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\bin\Debug\Esperantilo.pdb
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Debug\Esperantilo.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Debug\Esperantilo.exe
+C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Debug\Esperantilo.pdb
+C:\Users\Gabriel\Desktop\coding\C#\Esperantilo\obj\x86\Debug\Esperantilo.csprojResolveAssemblyReference.cache
