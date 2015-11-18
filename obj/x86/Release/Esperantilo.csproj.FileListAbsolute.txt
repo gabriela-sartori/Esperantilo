@@ -5,3 +5,4 @@ C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Release\Esperantilo.Prope
 C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Release\Esperantilo.csproj.GenerateResource.Cache
 C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Release\Esperantilo.exe
 C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Release\Esperantilo.pdb
+C:\Users\Gabriel\Desktop\coding\C#\Esperantilo\bin\Release\Esperantilo.exe.config

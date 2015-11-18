@@ -13,3 +13,4 @@ C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Debug\Esperantilo.Propert
 C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Debug\Esperantilo.exe
 C:\Users\Gabriel\Desktop\coding\C#\esperantilo\obj\x86\Debug\Esperantilo.pdb
 C:\Users\Gabriel\Desktop\coding\C#\Esperantilo\obj\x86\Debug\Esperantilo.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\coding\C#\Esperantilo\bin\Debug\Esperantilo.exe.config
