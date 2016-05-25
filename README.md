@@ -4,7 +4,7 @@ Esperantilo is a simple tool for typing Esperanto special letters anywhere (ŝĉ
 ![Esperantilo](http://i.imgur.com/Nmxbqhy.png)
 
 If you have any problems or features you would like to see on Esperantilo, please let me know!
-<br/>You can open an issue at github or you can email me at gabriel.sartori04@gmail.com
+<br/>You can open an issue at github or you can email me at gabriel.sartori04 (at) gmail.com
 <br/>
 <br/>Download 1: [HERE](https://github.com/G4BB3R/Esperantilo/raw/master/bin/Release/Esperantilo.exe) (Requires .NET framework 2.0+)
 <br/>Download 2: [HERE](https://www.dropbox.com/s/xqmefqwaq0qk605/Esperantilo.exe?dl=0) (Requires .NET framework 4.0+)
